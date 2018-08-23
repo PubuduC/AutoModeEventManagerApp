@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AutoModeEventManagerApplication</string>
+    <string name="scan_qrcode">Scan QRCode</string>
+</resources>
